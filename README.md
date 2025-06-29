@@ -8,7 +8,6 @@ AI-powered birth plan generator that helps expecting parents create a comprehens
 - 📝 Covers 50+ birth plan elements
 - 💬 Conversational interface - one question at a time
 - 🖨️ Printable format for healthcare providers
-- 🔒 Private - all data stays local
 
 ## Requirements
 
